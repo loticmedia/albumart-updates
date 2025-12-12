@@ -1,7 +1,7 @@
 {
   "version": "0.1.1",
   "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.1.tar.gz",
-  "sha256": "0bcbf7c2c468292f19514e313eb92de7a8b78a577e8ed7d31925cbfde5e6ec2c",
-  "size": 331776,
-  "notes": "Initial updater-enabled build"
+  "sha256": "4cce8fddc32305047383c5fb3154bec9ff9903391feea65e8a16b3c1e88b5910",
+  "size": 331808,
+  "notes": "Updater test build (0.1.1)"
 }
