@@ -1,7 +1,7 @@
 {
-  "version": "0.1.4",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.4.tar.gz",
-  "sha256": "cb66b04717af6f8e689e4d4eff2afb49ab787fa3d907374c8f87b7b64f53c894",
-  "size": 598431,
-  "notes": "Clock font selector with playful Google fonts (clock-only rendering)"
+  "version": "0.1.5",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.5.tar.gz",
+  "sha256": "1c86ae0526319317f3cda7430435a8725d488f70d6674062747e6f00551adf34",
+  "size": 1388302,
+  "notes": "Clock-only font selection with grouped silly/clock faces and in-list font previews"
 }
