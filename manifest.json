@@ -1,7 +1,7 @@
 {
-  "version": "0.1.6",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.6.tar.gz",
-  "sha256": "4dbf63582a5c4c2274c5e134d5d6e85153f59ca873609f43596c7e28a80e83af",
-  "size": 1389475,
-  "notes": "Fix clock font picker previews with a custom dropdown that renders each font name in its own face"
+  "version": "0.1.7",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.7.tar.gz",
+  "sha256": "0f6f4ec3c0249db41399250bea574b960ad97422ff52d873213d1f676b76aba3",
+  "size": 2388915,
+  "notes": "Settings UI refresh: inline WiiM controls, WiiM-toggle gating, and streamlined device controls"
 }
