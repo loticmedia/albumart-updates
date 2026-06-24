@@ -1,7 +1,7 @@
 {
   "version": "0.1.8",
   "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.8.tar.gz",
-  "sha256": "282da84959223d2d8d2857aefc63e0d13401e865d6a695ce8a574d4f3b901b69",
-  "size": 2471646,
-  "notes": "On-screen touch settings + OTA update UI, temperature unit (F/C), tap-to-open, and Tier-2 network-uid isolation. (0.1.8 == 0.1.7 code + version bump for OTA validation.)"
+  "sha256": "fb395b2446eaa9a330a594ff4f1771adf16a4bbb6efa0fd26b0451b55f76abaf",
+  "size": 2471829,
+  "notes": "On-screen touch settings + OTA update UI, temperature unit (F/C), tap-to-open, Tier-2 network-uid isolation, and OTA-apply SIGCHLD fix. (0.1.8 == 0.1.7 code + version bump + apply fix.)"
 }
