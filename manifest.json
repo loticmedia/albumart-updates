@@ -1,7 +1,7 @@
 {
-  "version": "0.1.8",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.8.tar.gz",
-  "sha256": "fb395b2446eaa9a330a594ff4f1771adf16a4bbb6efa0fd26b0451b55f76abaf",
-  "size": 2471829,
-  "notes": "On-screen touch settings + OTA update UI, temperature unit (F/C), tap-to-open, Tier-2 network-uid isolation, and OTA-apply SIGCHLD fix. (0.1.8 == 0.1.7 code + version bump + apply fix.)"
+  "version": "0.1.9",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.9.tar.gz",
+  "sha256": "452047b53804f85712a09064150ef7ae321b4256acbafe076ceafa8dadec8332",
+  "size": 2475966,
+  "notes": "On-screen zipcode keypad (Settings -> Display) + renderer now delivered by OTA. Toggle padding fix."
 }
