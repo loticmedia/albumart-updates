@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.9.tar.gz",
-  "sha256": "452047b53804f85712a09064150ef7ae321b4256acbafe076ceafa8dadec8332",
-  "size": 2475966,
-  "notes": "On-screen zipcode keypad (Settings -> Display) + renderer now delivered by OTA. Toggle padding fix."
+  "version": "0.1.10",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.10.tar.gz",
+  "sha256": "6e19923aebb600f042e331338f12ecb18735b29b70e9c0d95c1499c56aeab022",
+  "size": 2547781,
+  "notes": "Full-stack OTA: release now contains the complete runtime (broker, orchestrator, fetchers, libwiim_provider.so, fonts); broker/orch run from the release dir. Manifest URL + docs tidy-ups."
 }
