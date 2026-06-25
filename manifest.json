@@ -1,7 +1,7 @@
 {
-  "version": "0.1.10",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.1.10.tar.gz",
-  "sha256": "6e19923aebb600f042e331338f12ecb18735b29b70e9c0d95c1499c56aeab022",
-  "size": 2547781,
-  "notes": "Full-stack OTA: release now contains the complete runtime (broker, orchestrator, fetchers, libwiim_provider.so, fonts); broker/orch run from the release dir. Manifest URL + docs tidy-ups."
+  "version": "0.2",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.2.tar.gz",
+  "sha256": "725bcc76eb5ebe5c698dc05e6781ba7b6665b8efaee6e0c08073beebad3a0520",
+  "size": 2548064,
+  "notes": "0.2 milestone: on-device touch settings, Tier-2 albumart-net isolation, and full-stack OTA (the release ships the complete runtime). Version-only over 0.1.10."
 }
