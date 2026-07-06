@@ -1,7 +1,7 @@
 {
-  "version": "0.2",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.2.tar.gz",
-  "sha256": "725bcc76eb5ebe5c698dc05e6781ba7b6665b8efaee6e0c08073beebad3a0520",
-  "size": 2548064,
-  "notes": "0.2 milestone: on-device touch settings, Tier-2 albumart-net isolation, and full-stack OTA (the release ships the complete runtime). Version-only over 0.1.10."
+  "version": "0.2.3",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/albumart-0.2.3.tar.gz",
+  "sha256": "539535da84e48f369c4730dbd5036ba7e0cc95f751fd2b8d21d9c377b42bcbff",
+  "size": 2553374,
+  "notes": "Security hardening release: all services now run under strict systemd sandboxes (renderer included), runtime state moved off world-writable /tmp to /run/albumart, broker-owned AirPlay metadata pipe, hardened OTA verify+extract, art cache size budget, and update-state reliability fixes."
 }
