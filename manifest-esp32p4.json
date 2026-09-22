@@ -1,7 +1,7 @@
 {
-  "version": "0.2.13",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.13.bin",
-  "sha256": "313ecbf20f59a366cee0b33d74e0cd85a7acdcb5ee746dfc7b1991acbec20940",
+  "version": "0.2.14",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.14.bin",
+  "sha256": "3c2744a48c91baff2a88cdbb7211f5ef628bc7e479fdefd70fe448d052d0d7a5",
   "size": 2326528,
-  "notes": "Negative test: signed with the wrong key; the device must refuse it"
+  "notes": "Positive test: signed with the real key"
 }
