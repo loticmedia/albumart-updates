@@ -1,7 +1,7 @@
 {
-  "version": "0.2.11",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/main/esp32p4/albumart-0.2.11.bin",
-  "sha256": "5c3e8951416e4706aa4887f7060bb1d9918436a6fe855251eac42f696e9e8ccc",
-  "size": 2319456,
-  "notes": "Rebuilt clean; the earlier images are withdrawn"
+  "version": "0.2.13",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.13.bin",
+  "sha256": "313ecbf20f59a366cee0b33d74e0cd85a7acdcb5ee746dfc7b1991acbec20940",
+  "size": 2326528,
+  "notes": "Negative test: signed with the wrong key; the device must refuse it"
 }
