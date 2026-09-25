@@ -1,7 +1,7 @@
 {
-  "version": "0.2.14",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.14.bin",
-  "sha256": "3c2744a48c91baff2a88cdbb7211f5ef628bc7e479fdefd70fe448d052d0d7a5",
-  "size": 2326528,
-  "notes": "Positive test: signed with the real key"
+  "version": "0.2.18",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.18.bin",
+  "sha256": "8f512853ca3930b98ec4bcabd9d6531dbda2275fae611d3b697208379cb51999",
+  "size": 2494464,
+  "notes": "Staging 0.2.18: built from a fresh config (update signature check on); replaces 0.2.13/0.2.14, which skipped it"
 }
