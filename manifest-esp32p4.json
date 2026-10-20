@@ -1,10 +1,10 @@
 {
-  "version": "0.2.20",
+  "version": "0.2.21",
   "target": "esp32p4",
   "channel": "staging",
   "board": "albumart-p4",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.20.bin",
-  "sha256": "ccbbf010d1f1e84c1a82e5995652fc3ab5a9c19660983bcd8436f75f764ef6fa",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.21.bin",
+  "sha256": "4d99c604b92d55b5967cffefb8039c8d18cd18bc90d66a531b2ce082f7e41744",
   "size": 2494464,
-  "notes": "Staging 0.2.20: the 12-13 Oct review's fixes (updates bound to chip, channel and board; a daily check; roll back an image that fails on the unit), streamed PNG covers, board profiles; replaces the unpublished 0.2.19"
+  "notes": "0.2.21: the pairing code no longer stays on the panel after pairing; Wi-Fi stops before a planned restart, and restarts are paced when the Wi-Fi chip cannot be reached."
 }
