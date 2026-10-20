@@ -1,7 +1,10 @@
 {
-  "version": "0.2.18",
-  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.18.bin",
-  "sha256": "8f512853ca3930b98ec4bcabd9d6531dbda2275fae611d3b697208379cb51999",
+  "version": "0.2.20",
+  "target": "esp32p4",
+  "channel": "staging",
+  "board": "albumart-p4",
+  "url": "https://raw.githubusercontent.com/loticmedia/albumart-updates/staging/esp32p4/albumart-0.2.20.bin",
+  "sha256": "ccbbf010d1f1e84c1a82e5995652fc3ab5a9c19660983bcd8436f75f764ef6fa",
   "size": 2494464,
-  "notes": "Staging 0.2.18: built from a fresh config (update signature check on); replaces 0.2.13/0.2.14, which skipped it"
+  "notes": "Staging 0.2.20: the 12-13 Oct review's fixes (updates bound to chip, channel and board; a daily check; roll back an image that fails on the unit), streamed PNG covers, board profiles; replaces the unpublished 0.2.19"
 }
